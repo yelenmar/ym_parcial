@@ -1,0 +1,59 @@
+body{
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+    background-color: rgb(216, 191, 195);
+    font-family: 'pand-r', sans-serif;
+    font-weight: 400;
+}
+/* index */
+.ym_header{
+    font-size: 100%;
+    margin: 0%;
+}
+.ym_header li a {
+    text-decoration: none;
+    list-style: none;
+    margin-right: 20px;
+    list-style-type: none;
+    color: black;   
+}
+.ym_header ul{
+    list-style: none;
+    display: inline-flex;
+}
+
+/* info*/
+.ym_headersecciones{
+    background-color:  rgb(216, 191, 195);
+    color: rgb(0, 0, 0);
+}
+.ym_headersecciones ul{
+    list-style: none;
+    display: inline-flex;
+    margin-right: 20px;
+
+}
+.ym_headersecciones a{
+    display: inline-flex;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+
+.ym_quienessomos{
+    background-color:  rgb(216, 191, 195);
+    color: rgb(0, 0, 0);
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+/* productos */
+#ym_product-list{
+    list-style-type: none;
+    padding: 0;
+}
+
+
+/* contactos*/
